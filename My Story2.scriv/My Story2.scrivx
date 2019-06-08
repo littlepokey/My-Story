@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="LAPTOP-V7G4401T" Modified="2019-06-06 23:16:08 -0700" ModID="1FBD0779-EBF4-48CF-9583-71CF54A69B13">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="LAPTOP-V7G4401T" Modified="2019-06-08 02:12:08 -0700" ModID="B49384F6-C9F9-4265-8AD9-85F12F8AC0CA">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 13:48:19 -0700" Modified="2019-06-06 17:36:42 -0700" Type="Text">
             <Title>Novel Format</Title>
@@ -44,14 +44,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 09:33:03 -0700" Modified="2019-06-06 22:50:32 -0700" Type="Text">
+                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 09:33:03 -0700" Modified="2019-06-08 01:55:20 -0700" Type="Text">
                             <Title>Idea Pile</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2989,0</TextSelection>
+                                <TextSelection>7147,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -60,7 +60,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="42" UUID="A305B6C5-69AA-413F-876E-F00006E8C33C" Created="2019-06-06 18:02:53 -0700" Modified="2019-06-06 23:15:44 -0700" Type="Text">
+                        <BinderItem ID="42" UUID="A305B6C5-69AA-413F-876E-F00006E8C33C" Created="2019-06-06 18:02:53 -0700" Modified="2019-06-08 01:28:25 -0700" Type="Text">
                             <Title>Chapter 1</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -68,23 +68,47 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection Caret="13798">0,13798</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="43" UUID="2BF5B669-1F55-4E62-B377-C54BFDD2CD1E" Created="2019-06-06 18:04:36 -0700" Modified="2019-06-06 18:31:29 -0700" Type="Text">
-                            <Title>Chapter 2 (redo)</Title>
+                        <BinderItem ID="43" UUID="2BF5B669-1F55-4E62-B377-C54BFDD2CD1E" Created="2019-06-06 18:04:36 -0700" Modified="2019-06-08 01:59:28 -0700" Type="Text">
+                            <Title>Chapter 2 </Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>1</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>17,0</TextSelection>
+                                <TextSelection>4113,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="41" UUID="35082D37-9F69-400A-AD4D-AA526CED7D2A" Created="2019-06-06 17:32:24 -0700" Modified="2019-06-06 18:31:29 -0700" Type="Text">
-                            <Title>Chapter 2</Title>
+                        <BinderItem ID="50" UUID="3F3F4794-FFD4-406A-912E-17C47AC7647A" Created="2019-06-08 01:56:42 -0700" Modified="2019-06-08 01:57:18 -0700" Type="Text">
+                            <Title>Compilation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="22186">0,22186</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="49" UUID="BCA0CC46-D3F8-499C-9F01-71F1F6C6828C" Created="2019-06-08 01:29:07 -0700" Modified="2019-06-08 01:29:12 -0700" Type="Folder">
+                    <Title>Deprecated</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="41" UUID="35082D37-9F69-400A-AD4D-AA526CED7D2A" Created="2019-06-06 17:32:24 -0700" Modified="2019-06-08 01:29:32 -0700" Type="Text">
+                            <Title>Chapter 2 (OLD)</Title>
                             <MetaData>
                                 <LabelID>0</LabelID>
                                 <StatusID>0</StatusID>
@@ -92,27 +116,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5079,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="46" UUID="224BEFD3-725A-4AFE-B48F-71936E6B63BD" Created="2019-06-06 18:25:09 -0700" Modified="2019-06-06 18:31:29 -0700" Type="Text">
-                            <Title>Testing Github</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>15,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="47" UUID="694FF4C3-480D-4ED3-8A13-C36658EDB632" Created="2019-06-06 18:31:36 -0700" Modified="2019-06-06 18:31:45 -0700" Type="Text">
-                            <Title>dsfsdffd</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>59,0</TextSelection>
+                                <TextSelection>4118,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -135,8 +139,38 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="44" UUID="08885742-6FEB-4879-B487-B99D93706ED1" Created="2019-06-06 18:11:19 -0700" Modified="2019-06-06 18:16:42 -0700" Type="Text">
+                <BinderItem ID="44" UUID="08885742-6FEB-4879-B487-B99D93706ED1" Created="2019-06-06 18:11:19 -0700" Modified="2019-06-08 02:02:02 -0700" Type="Text">
                     <Title>Zero</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>45,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="48" UUID="AEBD5AAB-CEA7-4343-802F-78E458F13B7E" Created="2019-06-07 22:30:44 -0700" Modified="2019-06-08 02:11:10 -0700" Type="Text">
+                    <Title>Wren</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>24,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="51" UUID="118091DC-0240-4398-A16E-AA06B3FCCCE6" Created="2019-06-08 02:06:22 -0700" Modified="2019-06-08 02:06:54 -0700" Type="Text">
+                    <Title>Big Kieth</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -474,6 +508,28 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="46" UUID="224BEFD3-725A-4AFE-B48F-71936E6B63BD" Created="2019-06-06 18:25:09 -0700" Modified="2019-06-06 18:31:29 -0700" Type="Text">
+                    <Title>Testing Github</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="47" UUID="694FF4C3-480D-4ED3-8A13-C36658EDB632" Created="2019-06-06 18:31:36 -0700" Modified="2019-06-06 18:31:45 -0700" Type="Text">
+                    <Title>dsfsdffd</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>21,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <LabelSettings>
@@ -507,7 +563,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="111" Characters="684" Date="2019-06-06 22:49:45 -0700"/>
+        <PreviousSession Words="5965" Characters="33168" Date="2019-06-07 22:09:18 -0700"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
